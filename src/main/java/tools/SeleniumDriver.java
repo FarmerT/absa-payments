@@ -12,6 +12,7 @@ import java.io.File;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//All Global methods are stored here
 public class SeleniumDriver extends BaseClass {
 
     private WebDriver driver;

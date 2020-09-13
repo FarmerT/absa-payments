@@ -2,6 +2,7 @@ package pageObjects;
 
 import org.openqa.selenium.By;
 
+//The pageObjects Class will store all our web element we will need
 public class AbsaPageObject {
     public static String url() {
         return "https://www.absa.co.za/personal/ ";

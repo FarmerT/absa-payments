@@ -5,6 +5,7 @@ CONTENTS OF THIS FILE
  * How to import project into IntelliJ IDE
  * Steps to follow for running the script
  * How to view test report
+ * Libraries
  
 
  
@@ -38,6 +39,15 @@ After test has completed execution
 3. A report folder starting with absaPayments_(date and time) will be displayed. 
 4. Select the most recent report (you can sort view by date modified in descending order) to view results.
 5. Open 'extentReport.html' 
+
+* LIBRARIES
+---------------------
+• selenium-java
+• testng
+• webdrivermanager
+• poi
+• log4j
+• aventstack extent reports
 
 
 

@@ -32,7 +32,7 @@ public class Testsuite extends BaseClass {
 
 
     @Test
-    @Parameters ({"fruit"})
+    @Parameters ({"error"})
     public void absaPayments() throws IOException {
         String result = BankingOnline.ApplyNow();
     }

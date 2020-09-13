@@ -104,9 +104,6 @@ public class BankingOnline extends BaseClass {
         //Type Cell Number
         SeleniumDriverInstance.enterText(pageObjects.AbsaPageObject.txtCellNumber(), testData[4]);
 
-        //Take Screenshot
-        //Report.stepPassedWithScreenshot("Customer Information");
-
         //Pause - test execution is too fast
         SeleniumDriverInstance.pause(3000);
 

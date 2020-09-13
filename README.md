@@ -19,8 +19,11 @@ CONTENTS OF THIS FILE
 ---------------------
 1. Open IntelliJ IDE 
 2. Click Open
-3. Select Project Folder
-4. Click OK (the project will be opened)
+3. Open Project Folder on your PC
+4. Select pom.xml
+5. Click OK 
+6. Click Open as Project
+
 
 
 * STEPS TO FOLLOW FOR RUNNING THE SCRIPT

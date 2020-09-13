@@ -18,7 +18,7 @@ CONTENTS OF THIS FILE
 * HOW TO IMPORT PROJECT INTO INTELLIJ IDE
 ---------------------
 1. Open IntelliJ IDE 
-2. Click Import Project
+2. Click Open
 3. Select Project Folder
 4. Click OK (the project will be opened)
 
